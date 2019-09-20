@@ -1,0 +1,2 @@
+Type: Spectroscopic Surveyor
+Target: Mars, Phobos
