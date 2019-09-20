@@ -1,3 +1,2 @@
-# Ignore all dat files
-*.dat
-
+# Ignore only 4th dat file
+4.dat
